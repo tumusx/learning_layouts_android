@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_botões">200dp</dimen>
+    <dimen name="largura_texts">40</dimen>
+
+</resources>
