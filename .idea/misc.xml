@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/drawable/imagens.xml" value="0.13240740740740742" />
         <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/layout/ex_largura_altura.xml" value="0.1" />
-        <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/layout/ex_margin_padding.xml" value="0.22" />
+        <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/layout/ex_margin_padding.xml" value="0.33" />
+        <entry key="..\:/Users/muril/AndroidStudioProjects/aprendizad_android/app/src/main/res/layout/framelayout.xml" value="0.1" />
       </map>
     </option>
   </component>
